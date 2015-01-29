@@ -27,4 +27,6 @@ For more info see:<br>
 * Install/update EGit from the Marketplace (if the last version is not already included in your Eclipse package)
 * Add the Git command shortcuts in your Perspective (workspace dedicated to a particular language)
 * ___Window___ > ___Customize Perspective___
-* Select Git in ___Command Groups___ > ___Availability___
+* Select Git in ___Command Groups Availability___
+
+![](/Docs/Images/part1-02.png?raw=true)
