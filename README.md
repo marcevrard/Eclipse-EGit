@@ -44,11 +44,12 @@ For more info see:<br>
 <br>
 ![](/Docs/Images/part1-01.png?raw=true)
 
-* Set the default cloned repository location:
-* Check this tutorial for more info on using EGit:<br>
-<http://www.vogella.com/tutorials/EclipseGit/article.html>
+* Set the ___Default repository folder___ path:
 <br>
 ![](/Docs/Images/part1-03.png?raw=true)
+<br>
+* Check this tutorial for more info on using EGit:<br>
+<http://www.vogella.com/tutorials/EclipseGit/article.html>
 
 ---
 
@@ -61,17 +62,21 @@ For more info see:<br>
 * Select ___Git___ > ___Next___
 <br>
 * In the ___Configure Git___ Repository click on ___Create___
-* Enter the local path
+* Enter the ___Repository directory___ path
 <br>
 ![](/Docs/Images/part2-04.png?raw=true)
 <br>
 * Click ___Finish___
 <br>
 * Click on the shortcut to first commit locally:
+<br>
 ![](/Docs/Images/part2-12.png?raw=true)
+<br>
 * Select all required files (project files are optional)
-* Input the message
+* Write the message
+<br>
 ![](/Docs/Images/part2-05.png?raw=true)
+<br>
 * Press ___Commit___
 <br>
 * Create a new repo on GitHub
@@ -101,17 +106,17 @@ For more info see:<br>
 <br>
 * Click ___Next___
 <br>
-* Select ___Show dialog...___
-<br>
 ![](/Docs/Images/part2-10.png?raw=true)
+<br>
+* Select ___Show dialog...___
 <br>
 * Click ___Finish___
 <br>
 * The next time you commit, select ___Commit and Push___
-* You may need to select ___Show dialog...___ again
 <br>
 ![](/Docs/Images/part2-11.png?raw=true)
 <br>
+* You may need to select ___Show dialog...___ again
 * Click ___Finish___
 
 ---
