@@ -101,8 +101,54 @@ Click on ___Next___
 * The next time you commit, select ___Commit and Push___
 * You may need to select ___Show dialog...___ again
 * Click ___Finish___
+![](/Docs/Images/part2-11.png?raw=true)
 
 ---
 
+###Import an Eclipse project from GitHub
+* Use the project contextual menu and select ___Import___
+* Select ___Git___ > ___Projects from Git___
+* Click ___Next___
+![](/Docs/Images/part3-02.png?raw=true)
 
+###Import an Eclipse project from GitHub
+* Copy the ___Clone___ link from the GitHub repository
+* Past in ___URI___, all other fields will be automatically updated
+* Click ___Next___
+![](/Docs/Images/part3-01.png?raw=true)
 
+###Import an Eclipse project from GitHub
+* All good, click ___Next___
+![](/Docs/Images/part3-03.png?raw=true)
+
+###Import an Eclipse project from GitHub
+* All good, click ___Next___
+![](/Docs/Images/part3-04.png?raw=true)
+
+###Import an Eclipse project from GitHub
+* Select ___Import existing projects___
+* Click ___Next___
+![](/Docs/Images/part3-05.png?raw=true)
+
+###Import an Eclipse project from GitHub
+* Select the projects you want to import from the repository
+* Click ___Finish___
+![](/Docs/Images/part3-06.png?raw=true)
+
+---
+
+###Import any project from GitHub
+* E.g., in case you haven't included the `.project` and `.cproject` in GitHub
+* You will need to ___Import as a general project___
+* Click ___Next___
+![](/Docs/Images/part3-05.png?raw=true)
+
+###Import any project from GitHub
+* In the contextual menu of the project:<br>
+select ___New___ > ___Convert to C/C++ Project...___
+![](/Docs/Images/part4-02.png?raw=true)
+
+###Import any project from GitHub
+* Chose ___Executable___ and the appropriate ___Toolchains___:
+* Click ___Finished___
+![](/Docs/Images/part4-01.png?raw=true)
