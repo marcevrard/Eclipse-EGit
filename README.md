@@ -4,7 +4,9 @@ Tutorial to use Eclipse with GitHub through EGit
 
 ####Marc Evrard
 
-#### January 26, 2015
+January 26, 2015
+
+---
 
 ### Register a GitHub account
 * <https://github.com>
