@@ -51,7 +51,7 @@ For more info see:<br>
 ###Add an existing project to GitHub
 * Use the Project context menu (right-click on the project folder)
 * Select ___Team___ > ___Share Project___
-Select ___Git___ > ___Next___
+* Select ___Git___ > ___Next___
 ![](/Docs/Images/part2-03.png?raw=true)
 
 * In the ___Configure Git___ Repository click on ___Create___
@@ -71,7 +71,7 @@ Select ___Git___ > ___Next___
 * Click on the Push shortcut to start the push wizard
 ![](/Docs/Images/part2-13.png?raw=true)
 * The link will be automatically added as well as other required fields
-Click on ___Next___
+* Click on ___Next___
 ![](/Docs/Images/part2-06.png?raw=true)
 
 * Click the ___advanced push___ link
@@ -133,6 +133,6 @@ Click on ___Next___
 select ___New___ > ___Convert to C/C++ Project...___
 ![](/Docs/Images/part4-02.png?raw=true)
 
-* Chose ___Executable___ and the appropriate ___Toolchains___:
+* Chose ___Executable___ and the appropriate ___Toolchains___
 * Click ___Finished___
 ![](/Docs/Images/part4-01.png?raw=true)
