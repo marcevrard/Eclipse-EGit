@@ -32,7 +32,7 @@ For more info see:<br>
 
 ###Setup EGit in Eclipse
 * Add the Git control tabs in the bottom window:<br>
-(near the Problems tab)
+(near the ___Problems___ tab)
 ![](/Docs/Images/part2-01.png?raw=true)
 
 ###Setup EGit
@@ -41,7 +41,6 @@ For more info see:<br>
 * You can add or amend all settings from here
 ![](/Docs/Images/part1-01.png?raw=true)
 
-###Setup EGit
 * Set the default cloned repository location:
 * Check this tutorial for more info on using EGit:<br>
 <http://www.vogella.com/tutorials/EclipseGit/article.html>
@@ -55,13 +54,11 @@ For more info see:<br>
 Select ___Git___ > ___Next___
 ![](/Docs/Images/part2-03.png?raw=true)
 
-###Add an existing project to GitHub
 * In the ___Configure Git___ Repository click on ___Create___
 * Enter the local path
 * Click ___Finish___
 ![](/Docs/Images/part2-04.png?raw=true)
 
-###Add an existing project to GitHub
 * Click on the shortcut to first commit locally:
 ![](/Docs/Images/part2-12.png?raw=true)
 * Select all required files (project files are optional)
@@ -69,7 +66,6 @@ Select ___Git___ > ___Next___
 * Press ___Commit___
 ![](/Docs/Images/part2-05.png?raw=true)
 
-###Add an existing project to GitHub
 * Create a new repo on GitHub
 * Copy the Clone link
 * Click on the Push shortcut to start the push wizard
@@ -78,26 +74,21 @@ Select ___Git___ > ___Next___
 Click on ___Next___
 ![](/Docs/Images/part2-06.png?raw=true)
 
-###Add an existing project to GitHub
 * Click the ___advanced push___ link
 ![](/Docs/Images/part2-07.png?raw=true)
 
-###Add an existing project to GitHub
 * All good, click ___Next___
 ![](/Docs/Images/part2-08.png?raw=true)
 
-###Add an existing project to GitHub
 * Select ___master___ in ___Source___ and in ___Destination___
 * Click ___Add Spec___
 * Click ___Next___
 ![](/Docs/Images/part2-09.png?raw=true)
 
-###Add an existing project to GitHub
 * Select ___Show dialog...___
 * Click ___Finish___
 ![](/Docs/Images/part2-10.png?raw=true)
 
-###Add an existing project to GitHub
 * The next time you commit, select ___Commit and Push___
 * You may need to select ___Show dialog...___ again
 * Click ___Finish___
@@ -111,26 +102,21 @@ Click on ___Next___
 * Click ___Next___
 ![](/Docs/Images/part3-02.png?raw=true)
 
-###Import an Eclipse project from GitHub
 * Copy the ___Clone___ link from the GitHub repository
 * Past in ___URI___, all other fields will be automatically updated
 * Click ___Next___
 ![](/Docs/Images/part3-01.png?raw=true)
 
-###Import an Eclipse project from GitHub
 * All good, click ___Next___
 ![](/Docs/Images/part3-03.png?raw=true)
 
-###Import an Eclipse project from GitHub
 * All good, click ___Next___
 ![](/Docs/Images/part3-04.png?raw=true)
 
-###Import an Eclipse project from GitHub
 * Select ___Import existing projects___
 * Click ___Next___
 ![](/Docs/Images/part3-05.png?raw=true)
 
-###Import an Eclipse project from GitHub
 * Select the projects you want to import from the repository
 * Click ___Finish___
 ![](/Docs/Images/part3-06.png?raw=true)
@@ -143,12 +129,10 @@ Click on ___Next___
 * Click ___Next___
 ![](/Docs/Images/part3-05.png?raw=true)
 
-###Import any project from GitHub
 * In the contextual menu of the project:<br>
 select ___New___ > ___Convert to C/C++ Project...___
 ![](/Docs/Images/part4-02.png?raw=true)
 
-###Import any project from GitHub
 * Chose ___Executable___ and the appropriate ___Toolchains___:
 * Click ___Finished___
 ![](/Docs/Images/part4-01.png?raw=true)
