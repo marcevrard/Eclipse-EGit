@@ -1,8 +1,6 @@
-# Eclipse-EGit
-Tutorial to use Eclipse with GitHub through EGit
-
-
 # Eclipse – GitHub
+
+Tutorial to use Eclipse with GitHub through EGit
 
 ####Marc Evrard
 
