@@ -175,4 +175,4 @@ select ___New___ > ___Convert to C/C++ Project...___
 <br>
 ![](/Docs/Images/part4-01.png?raw=true)
 <br>
-* Click ___Finished___
+* Click ___Finish___
