@@ -26,14 +26,14 @@ For more info see:<br>
 ### Install and Setup EGit in Eclipse
 * Install/update EGit from the Marketplace (if the last version is not already included in your Eclipse package)
 * Add the Git command shortcuts in your Perspective (workspace dedicated to a particular language)
-* ___Window___ > ___Customize Perspective___
-* Select ___Git___ in ___Command Groups Availability___
+* ***Window*** > ***Customize Perspective***
+* Select ***Git*** in ***Command Groups Availability***
 <br>
 ![](/Docs/Images/part1-02.png?raw=true)
 
 ### Setup EGit in Eclipse
 * Add the Git control tabs in the bottom window:<br>
-(near the ___Problems___ tab)
+(near the ***Problems*** tab)
 <br>
 ![](/Docs/Images/part2-01.png?raw=true)
 
@@ -44,7 +44,7 @@ For more info see:<br>
 <br>
 ![](/Docs/Images/part1-01.png?raw=true)
 
-* Set the ___Default repository folder___ path:
+* Set the ***Default repository folder*** path:
 <br>
 ![](/Docs/Images/part1-03.png?raw=true)
 <br>
@@ -55,18 +55,18 @@ For more info see:<br>
 
 ### Add an existing project to GitHub
 * Use the Project context menu (right-click on the project folder)
-* Select ___Team___ > ___Share Project___
+* Select ***Team*** > ***Share Project***
 <br>
 ![](/Docs/Images/part2-03.png?raw=true)
 <br>
-* Select ___Git___ > ___Next___
+* Select ***Git*** > ***Next***
 <br>
-* In the ___Configure Git___ Repository click on ___Create___
-* Enter the ___Repository directory___ path
+* In the ***Configure Git*** Repository click on ***Create***
+* Enter the ***Repository directory*** path
 <br>
 ![](/Docs/Images/part2-04.png?raw=true)
 <br>
-* Click ___Finish___
+* Click ***Finish***
 <br>
 * Click on the shortcut to first commit locally:
 <br>
@@ -77,7 +77,7 @@ For more info see:<br>
 <br>
 ![](/Docs/Images/part2-05.png?raw=true)
 <br>
-* Press ___Commit___
+* Press ***Commit***
 <br>
 * Create a new repo on GitHub
 * Copy the Clone link
@@ -89,90 +89,90 @@ For more info see:<br>
 <br>
 ![](/Docs/Images/part2-06.png?raw=true)
 <br>
-* Click on ___Next___
+* Click on ***Next***
 <br>
 ![](/Docs/Images/part2-07.png?raw=true)
 <br>
-* Click the ___advanced push___ link
+* Click the ***advanced push*** link
 <br>
 ![](/Docs/Images/part2-08.png?raw=true)
 <br>
-* All good, click ___Next___
+* All good, click ***Next***
 <br>
-* Select ___master___ in ___Source___ and in ___Destination___
-* Click ___Add Spec___
+* Select ***master*** in ***Source*** and in ***Destination***
+* Click ***Add Spec***
 <br>
 ![](/Docs/Images/part2-09.png?raw=true)
 <br>
-* Click ___Next___
+* Click ***Next***
 <br>
 ![](/Docs/Images/part2-10.png?raw=true)
 <br>
-* Select ___Show dialog...___
+* Select ***Show dialog...***
 <br>
-* Click ___Finish___
+* Click ***Finish***
 <br>
-* The next time you commit, select ___Commit and Push___
+* The next time you commit, select ***Commit and Push***
 <br>
 ![](/Docs/Images/part2-11.png?raw=true)
 <br>
-* You may need to select ___Show dialog...___ again
-* Click ___Finish___
+* You may need to select ***Show dialog...*** again
+* Click ***Finish***
 
 ---
 
 ### Import an Eclipse project from GitHub
-* Use the project contextual menu and select ___Import___
-* Select ___Git___ > ___Projects from Git___
+* Use the project contextual menu and select ***Import***
+* Select ***Git*** > ***Projects from Git***
 <br>
 ![](/Docs/Images/part3-02.png?raw=true)
 <br>
-* Click ___Next___
+* Click ***Next***
 <br>
-* Copy the ___Clone___ link from the GitHub repository
-* Past in ___URI___, all other fields will be automatically updated
+* Copy the ***Clone*** link from the GitHub repository
+* Past in ***URI***, all other fields will be automatically updated
 <br>
 ![](/Docs/Images/part3-01.png?raw=true)
 <br>
-* Click ___Next___
+* Click ***Next***
 <br>
 ![](/Docs/Images/part3-03.png?raw=true)
 <br>
-* All good, click ___Next___
+* All good, click ***Next***
 <br>
 ![](/Docs/Images/part3-04.png?raw=true)
 <br>
-* All good, click ___Next___
+* All good, click ***Next***
 <br>
-* Select ___Import existing projects___
+* Select ***Import existing projects***
 <br>
 ![](/Docs/Images/part3-05.png?raw=true)
 <br>
-* Click ___Next___
+* Click ***Next***
 <br>
 * Select the projects you want to import from the repository
 <br>
 ![](/Docs/Images/part3-06.png?raw=true)
 <br>
-* Click ___Finish___
+* Click ***Finish***
 
 ---
 
 ### Import any project from GitHub
 * E.g., in case you haven't included the `.project` and `.cproject` in GitHub
-* You will need to ___Import as a general project___
+* You will need to ***Import as a general project***
 <br>
 ![](/Docs/Images/part3-05.png?raw=true)
 <br>
-* Click ___Next___
+* Click ***Next***
 <br>
 * In the contextual menu of the project:<br>
-select ___New___ > ___Convert to C/C++ Project...___
+select ***New*** > ***Convert to C/C++ Project...***
 <br>
 ![](/Docs/Images/part4-02.png?raw=true)
 <br>
-* Chose ___Executable___ and the appropriate ___Toolchains___
+* Chose ***Executable*** and the appropriate ***Toolchains***
 <br>
 ![](/Docs/Images/part4-01.png?raw=true)
 <br>
-* Click ___Finish___
+* Click ***Finish***
