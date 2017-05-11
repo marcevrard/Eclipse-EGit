@@ -2,7 +2,7 @@
 
 Tutorial to use Eclipse with GitHub through EGit
 
-####Marc Evrard
+#### Marc Evrard
 
 January 26, 2015
 
@@ -14,7 +14,7 @@ January 26, 2015
 <br>
 It allows you to create private repositories (among other things)
 
-###Install Git
+### Install Git
 * Tell Git your name:<br>
 `git config --global user.name "YOUR NAME"`
 * Tell Git the email address that will be associated with your Git commits (should be the same one found in your email settings)<br>
@@ -23,7 +23,7 @@ It allows you to create private repositories (among other things)
 For more info see:<br>
 <https://help.github.com/articles/set-up-git/#platform-linux>
 
-###Install and Setup EGit in Eclipse
+### Install and Setup EGit in Eclipse
 * Install/update EGit from the Marketplace (if the last version is not already included in your Eclipse package)
 * Add the Git command shortcuts in your Perspective (workspace dedicated to a particular language)
 * ___Window___ > ___Customize Perspective___
@@ -31,13 +31,13 @@ For more info see:<br>
 <br>
 ![](/Docs/Images/part1-02.png?raw=true)
 
-###Setup EGit in Eclipse
+### Setup EGit in Eclipse
 * Add the Git control tabs in the bottom window:<br>
 (near the ___Problems___ tab)
 <br>
 ![](/Docs/Images/part2-01.png?raw=true)
 
-###Setup EGit
+### Setup EGit
 * Check the Git configuration in the Preference
 * If the Git setup (see above) went well the config should be already completed
 * You can add or amend all settings from here
@@ -53,7 +53,7 @@ For more info see:<br>
 
 ---
 
-###Add an existing project to GitHub
+### Add an existing project to GitHub
 * Use the Project context menu (right-click on the project folder)
 * Select ___Team___ > ___Share Project___
 <br>
@@ -121,7 +121,7 @@ For more info see:<br>
 
 ---
 
-###Import an Eclipse project from GitHub
+### Import an Eclipse project from GitHub
 * Use the project contextual menu and select ___Import___
 * Select ___Git___ > ___Projects from Git___
 <br>
@@ -158,7 +158,7 @@ For more info see:<br>
 
 ---
 
-###Import any project from GitHub
+### Import any project from GitHub
 * E.g., in case you haven't included the `.project` and `.cproject` in GitHub
 * You will need to ___Import as a general project___
 <br>
